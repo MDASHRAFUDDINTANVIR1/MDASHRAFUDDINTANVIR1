@@ -1,5 +1,19 @@
 <h1 align="center">Hi 👋, I'm MD ASHRAF UDDIN TANVIR</h1>
-<h3 align="center">I'm a front-end developer based in Dhaka, Bangladesh 🇧🇩, with a passion for creating intuitive user interfaces and captivating graphics. Recently, I've been diving into the world of backend development, expanding my skill set to craft seamless end-to-end solutions. Alongside coding, I'm deeply interested in cybersecurity, ensuring the robustness of every project I undertake. Let's collaborate and build secure, visually stunning experiences together!</h3>
+<h4 align="center" style=" color: blue">I'm a front-end developer based in Dhaka, Bangladesh 🇧🇩, with a passion for creating intuitive user interfaces and captivating graphics. Recently, I've been diving into the world of backend development, expanding my skill set to craft seamless end-to-end solutions. Alongside coding, I'm deeply interested in cybersecurity, ensuring the robustness of every project I undertake. Let's collaborate and build secure, visually stunning experiences together!</h4>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MDASHRAFUDDINTANVIR1&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MDASHRAFUDDINTANVIR1&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+
+###
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdashrafuddintanvir1&label=Profile%20views&color=0e75b6&style=flat" alt="mdashrafuddintanvir1" /> </p>
 
