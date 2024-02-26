@@ -5,13 +5,9 @@
     <img height="250" align="left" width="auto" src="https://miro.medium.com/v2/resize:fit:679/1*yw0TnheAGN-LPneDaTlaxw.gif"/>
     <img height="250" align="right" width="auto" src="https://globaleducation.s3.ap-south-1.amazonaws.com/globaledu/gif/front-end-development.gif"/>
 </div> 
-####
-####
-####
 
-<div>
-    <p align="left">Visitors Counter:  <img src="https://komarev.com/ghpvc/?username=mdashrafuddintanvir1&label=Profile%20views&color=0e75b6&style=flat" alt="mdashrafuddintanvir1" /> </p>
-</div>
+<p align="left"><img height="50" src="https://komarev.com/ghpvc/?username=mdashrafuddintanvir1&label=Profile%20views&color=0e75b6&style=flat" alt="mdashrafuddintanvir1" /> </p>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mdashrafuddintanvir1" alt="mdashrafuddintanvir1" /></a> </p>
 
