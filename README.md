@@ -8,11 +8,8 @@
     <img height="250" align="left" width="auto" src="https://miro.medium.com/v2/resize:fit:679/1*yw0TnheAGN-LPneDaTlaxw.gif"/>
     <img height="250" align="right" width="auto" src="https://globaleducation.s3.ap-south-1.amazonaws.com/globaledu/gif/front-end-development.gif"/>
 </div>
-<br> <br> 
-
 
 ###
-
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdashrafuddintanvir1&label=Profile%20views&color=0e75b6&style=flat" alt="mdashrafuddintanvir1" /> </p>
 
