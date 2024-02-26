@@ -6,7 +6,7 @@
 ###
 
 <img height="300" align="left" width="50%" src="https://globaleducation.s3.ap-south-1.amazonaws.com/globaledu/gif/front-end-development.gif"/>
-<img height="300" align="right" width="50%" src="https://globaleducation.s3.ap-south-1.amazonaws.com/globaledu/gif/front-end-development.gif"/>
+<img height="300" align="right" width="50%" src="https://miro.medium.com/v2/resize:fit:679/1*yw0TnheAGN-LPneDaTlaxw.gif"/>
 
 
 ###
