@@ -6,6 +6,7 @@
     <img height="250" align="right" width="auto" src="https://globaleducation.s3.ap-south-1.amazonaws.com/globaledu/gif/front-end-development.gif"/>
 </div> 
 
+<br>
 <p align="left"><img height="50" src="https://komarev.com/ghpvc/?username=mdashrafuddintanvir1&label=Profile%20views&color=0e75b6&style=flat" alt="mdashrafuddintanvir1" /> </p>
 
 
