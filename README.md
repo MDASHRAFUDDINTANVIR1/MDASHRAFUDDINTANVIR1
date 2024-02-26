@@ -35,11 +35,6 @@
 
 
 
-<img src="https://raw.githubusercontent.com/mdashrafuddintanvir1/mdashrafuddintanvir1/output/snake.svg" alt="Snake animation" />
-
-###
-
-
 
 
 
