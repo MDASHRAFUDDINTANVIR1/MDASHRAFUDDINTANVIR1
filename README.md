@@ -2,7 +2,7 @@
 <h4 align="center" style=" color: blue">I'm a front-end developer based in Dhaka, Bangladesh, with a passion for creating intuitive user interfaces and captivating graphics. Recently, I've been diving into the world of backend development, expanding my skill set to craft seamless end-to-end solutions. Alongside coding, I'm deeply interested in cybersecurity, ensuring the robustness of every project I undertake. Let's collaborate and build secure, visually stunning experiences together!</h4>
 
 <div>
-    <img height="350" align="left" width="auto" src="https://miro.medium.com/v2/resize:fit:679/1*yw0TnheAGN-LPneDaTlaxw.gif"/>
+    <img height="350" align="left" width="100%" src="https://miro.medium.com/v2/resize:fit:679/1*yw0TnheAGN-LPneDaTlaxw.gif"/>
 </div> 
 
 
