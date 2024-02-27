@@ -3,12 +3,12 @@
 
 <span>
     <img height="350" align="left" width="100%" src="https://miro.medium.com/v2/resize:fit:1358/1*-ntL3Dsvc-dJ5cLGRtSuEw.gif"/>
-</span>
-<br><br><br>
+</span><br><br>
+
 <p align="center">
   <img height="30" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/mdashrafuddintanvir1" alt="Visitor Counter" />
 </p>
-<br><br><br>
+<br>
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mdashrafuddintanvir1" alt="mdashrafuddintanvir1" /></a> </p>
