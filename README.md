@@ -1,8 +1,7 @@
 <p align="center">
-  <marquee behavior="scroll" direction="left" scrollamount="10">
-    <h2>Hi, I am MD ASHRAF UDDIN TANVIR.</h2>
-  </marquee>
+  <img src="https://media.giphy.com/media/3o7TKMt1VVNkHV2Pa8/giphy.gif" alt="Animated Intro" width="400" height="200">
 </p>
+
 <h1 align="center">Hi 👋, I'm MD ASHRAF UDDIN TANVIR</h1>
 <p > <i> I'm a front-end developer based in Dhaka, Bangladesh, with a passion for creating intuitive user interfaces and captivating graphics. Recently, I've been diving into the world of backend development, expanding my skill set to craft seamless end-to-end solutions. Alongside coding, I'm deeply interested in cybersecurity, ensuring the robustness of every project I undertake. Let's collaborate and build secure, visually stunning experiences together!</i></p>
 
