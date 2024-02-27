@@ -2,12 +2,14 @@
 <p > <i> I'm a front-end developer based in Dhaka, Bangladesh, with a passion for creating intuitive user interfaces and captivating graphics. Recently, I've been diving into the world of backend development, expanding my skill set to craft seamless end-to-end solutions. Alongside coding, I'm deeply interested in cybersecurity, ensuring the robustness of every project I undertake. Let's collaborate and build secure, visually stunning experiences together!</i></p>
 
 <span>
-    <img style="margin-bottom:30;" height="350" align="left" width="100%" src="https://miro.medium.com/v2/resize:fit:1358/1*-ntL3Dsvc-dJ5cLGRtSuEw.gif"/>
+    <img style="margin-bottom:30;" height="350" align="left" width="100%" src="https://miro.medium.com/v2/resize:fit:1358/1*-ntL3Dsvc-dJ5cLGRtSuEw.gif"/><br>
 </span>
 
-<p align="center">
-  <img height="30" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/mdashrafuddintanvir1" alt="Visitor Counter" />
-</p>
+<span>
+    <p align="center">
+        <img height="30" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/mdashrafuddintanvir1" alt="Visitor Counter" />
+    </p>
+</span>
 <br>
 
 
