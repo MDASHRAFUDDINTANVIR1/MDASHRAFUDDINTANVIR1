@@ -5,8 +5,8 @@
     <img height="350" align="left" width="100%" src="https://miro.medium.com/v2/resize:fit:1358/1*-ntL3Dsvc-dJ5cLGRtSuEw.gif"/>
 </span>
 
-<p align="center">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/mdashrafuddintanvir1" alt="Visitor Counter" />
+<p align="center" style="padding: 20px;">
+  <img height="30" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/mdashrafuddintanvir1" alt="Visitor Counter" />
 </p>
 
 
